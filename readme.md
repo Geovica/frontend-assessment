@@ -1,20 +1,20 @@
-### frontend-assessment
+# frontend-assessment
 - This is made using Vuejs
 
-# Project setup
+### Project setup
 ```
 npm install
 ```
 
-# Compiles and hot-reloads for development
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-# App running at:
+### App running at:
   - Local:   http://localhost:8080/ 
 
 
-### BANANA Expanation
+# Banana Explanation
 
 `'b' + 'a' + + 'a' + 'a'`
 ...is evaluated as....
