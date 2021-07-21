@@ -49,8 +49,6 @@ export default {
 <style lang="scss">
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;700&display=swap');
 
-   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;700&display=swap');
-
   body {
     font-family: 'Montserrat', sans-serif;
   }
